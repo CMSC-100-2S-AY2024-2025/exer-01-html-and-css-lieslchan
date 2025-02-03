@@ -1,0 +1,42 @@
+/* .flex-container {
+  display: flex;
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  padding: 5px;
+  margin-bottom: 30px;
+} */
+
+
+.header {
+  text-align: center;
+  padding: 30px;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+}
+
+.liesl {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 70%;
+  text-align: center;
+  background: #1abc9c;
+  width: 100%
+}
+
+.lieslheader {
+  text-align: center;
+  padding: 30px;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+}
+
+.languages {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 20%;
+}
